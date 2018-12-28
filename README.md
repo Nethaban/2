@@ -1,2 +1,2 @@
-# 125
-A game about coolness.
+# 2
+Clone of Threes by Asher Vollmer.
